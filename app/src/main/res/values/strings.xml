@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Inicio Sesion </string>
+    <string name="label_titulo" >Inicio Sesion</string>
+    <string name="button_inicio">Ingresar</string>
+    <string name="labe_Titulo">Inicio Sesion</string>
+</resources>
